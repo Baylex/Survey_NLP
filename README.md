@@ -5,9 +5,10 @@ NLP Sentiment Analysis on Walkthrough data for Transformation Waco
 1. Use Python in Jupyter Notebook to perform a Sentiment Analysis   
 2. NLTK to determine positive, neutral, and negative    
 3. Review for subjectivity and objectivity  
-4. Pull results into Tableau for an interactive Dashboard    
-5. PowerPoint for sharable file for those outside the organization     
-6. Refine data collection process to save hours of work from campus leaders   
+4. Perform Topic Analysis   
+5. Pull results into Tableau for an interactive Dashboard    
+6. PowerPoint for sharable file for those outside the organization     
+7. Refine data collection process to save hours of work from campus leaders   
 
 # Narrative
 We had a teacher observation form created by an outside organization.  30 questions, 3 fill in the blanks.  My team asked for analysis on all but the fill in the blanks.  I completed the analysis in Tableau, but I pushed on why we did not look at the fill in the blanks.  I do not prefer to collect data that is not used.  Data is only valuable if it is actionable.  It is not time efficient on the staff to fill out unnecessary questions on forms.  Knowing how long a walkthrough and follow up take, my best estimate is the principals/APs spent 2000 work hours combined filling out the walkthrough forms over the course of the school year.  With over 5000 text entries to sift through, the leadership team was at a loss for how to analyze that type and volume of qualitative data.       
