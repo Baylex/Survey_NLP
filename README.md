@@ -14,6 +14,8 @@ And true to any leadership team, they wanted the cliff notes version!  I said my
 
 The other key finding was the word count trailed off as the form progressed.  I ran down some other possibilities such as focusing on one domain over another and another.  When those did not pan out, I finally attributed the decrease in words to form fatigue.  To address form fatigue, I met with the outside team to analyze the questions on the form and to build it better from a data collection view for the new school year.  We were able to trim the form down from 30 questions to 12 questions and only 1 fill in the blank, none of which sacrificed any of my team’s key data points!  I removed many redundant data collection pieces that could be merged with a static file when an analysis was needed.  We easily recover 1000 work hours!  
 
+# Code Coming Soon! 
+I am working on finding an alternative data set to share my code and work. 
 
 # Future Research Areas 
 Super Duper NLP Repo: https://notebooks.quantumstat.com/             
