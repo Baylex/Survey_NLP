@@ -1,5 +1,5 @@
 # Sentiment Analysis 
-NLP Sentiment Analysis on Walkthrough data for Transformation Waco
+NLP, Sentiment Analysis, and Topic Analysis on Walkthrough data for Transformation Waco
 
 # Process
 1. Use Python in Jupyter Notebook to perform a Sentiment Analysis   
@@ -8,7 +8,7 @@ NLP Sentiment Analysis on Walkthrough data for Transformation Waco
 4. Perform Topic Analysis   
 5. Pull results into Tableau for an interactive Dashboard    
 6. PowerPoint for sharable file for those outside the organization     
-7. Refine data collection process to save hours of work from campus leaders   
+7. Refine data collection process to save hours of work for campus leaders   
 
 # Problem Statement
 We had a teacher observation form created by an outside organization.  The form had several questions including 3 fill in the blanks.  My best estimate for the time investment over the course of that year is that principals/APs spent 2000 work hours completing the walkthrough form.  My team asked for analysis but left out the fill in the blanks.  I completed the analysis in Tableau, but I still wanted to dig into the qualitative data, which was over 5000 text entries to sift through.    
@@ -18,7 +18,7 @@ I went to work and ran the entries through a sentiment analysis and found that t
 The other key finding was the word count trailed off as the form progressed.  After some investigation, I finally attributed the decrease in words to form fatigue.  To address form fatigue, I met with the outside team to analyze the questions on the form and to build it better from a data collection view for the new school year.  We were able to trim the form down considerably while not sacrificing any of the team’s key data points!  I removed many redundant data collection pieces that could be later merged with a static file when an analysis was needed.  We easily recovered 1000 work hours in making this adjustment!    
 
 # Code Coming Soon! 
-I am working on finding an alternative data set to share my code and work. 
+I am working on finding an alternative data set to share my code and work for other educators.  Machine Learning and NLP is not commonly used among school campuses.  I am working to make advanced analysis techniques more accessible to school districts.  I used Jupyter Notebook for this project, but for accessibility, I will add code for Google Colaboratory as it does not require a data environment to be set up and allows for non-technical educators to run the code on their survey data.  Most ISDs have access to Google products.
 
 # Future Research Areas 
 Super Duper NLP Repo: https://notebooks.quantumstat.com/             
