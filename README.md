@@ -12,9 +12,9 @@ NLP Sentiment Analysis on Walkthrough data for Transformation Waco
 
 # Problem Statement
 We had a teacher observation form created by an outside organization.  The form had several questions including 3 fill in the blanks.  My best estimate for the time investment over the course of that year is that principals/APs spent 2000 work hours completing the walkthrough form.  My team asked for analysis but left out the fill in the blanks.  I completed the analysis in Tableau, but I still wanted to dig into the qualitative data, which was over 5000 text entries to sift through.    
-# Analyzing the Qualitative Data 
-I went to work and ran the entries through a sentiment analysis and found that the coaching feedback was significantly positive and only slightly subjective in language.  Both of those indicators meant the coaches were on track to giving good mentoring advice to teachers.  I also made a word cloud in Tableau where they could explore the different positive/negative and objective/subjective words.  I also completed 2 versions of a topic analysis, where I found that using 5 words in a row gave a good general sense of some interesting topics discussed in the coaching feedback.      
-# Addressing Form Fatigue
+## Analyzing the Qualitative Data 
+I went to work and ran the entries through a sentiment analysis and found that the coaching feedback was significantly positive and only slightly subjective in language.  Both of those indicators meant the coaches were on track to giving good mentoring advice to teachers.  I auploaded the results and made a word cloud in Tableau where they could explore the different positive/negative and objective/subjective words.  I also completed 2 versions of a topic analysis, where I found that using 5 words in a row gave a good general sense of some interesting topics discussed in the coaching feedback.      
+## Addressing Form Fatigue
 The other key finding was the word count trailed off as the form progressed.  After some investigation, I finally attributed the decrease in words to form fatigue.  To address form fatigue, I met with the outside team to analyze the questions on the form and to build it better from a data collection view for the new school year.  We were able to trim the form down considerably while not sacrificing any of the team’s key data points!  I removed many redundant data collection pieces that could be later merged with a static file when an analysis was needed.  We easily recovered 1000 work hours in making this adjustment!    
 
 # Code Coming Soon! 
