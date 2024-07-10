@@ -1,6 +1,11 @@
 # Sentiment Analysis 
 NLP, Sentiment Analysis, and Topic Analysis on Walkthrough data for Transformation Waco
 
+# Result: How cleaning up a form won $2.4 million in TIA grant funding 
+By restructuring the coaching feedback forms, I was able to recover 1000 work hours or roughly $45,000 in salaries plus create actionable data from previously ignored qualitative data. We were collecting the coaching feedback, but no one was analyzing it.  I developed python code to use different machine learning models to analyze all of the fill in the blank questions and showed that the coaching feedback was generally positive, which challenged the assumption that feedback was usually negative. Working with better feedback forms, recovered worked hours and challenged preconceptions, we were able to have focused discussions on calibrated walks.  Calbrated walks fed into data collection points for the TIA grant, where my data collection and reporting passed a 13-point data validation check conducted by the University of Texas and ended up winning $2.4 million in bonus income for teachers. $1.2 milliion across 2 years for TW campuses. 
+
+(https://www.kcentv.com/article/news/local/waco-isd-boosts-200-teachers-pay-through-teacher-incentive-allotment/500-0d25fe54-c322-4973-b02d-fa81c30ecc8a)
+
 # Process
 1. Use Python in Jupyter Notebook to perform a Sentiment Analysis   
 2. NLTK to determine positive, neutral, and negative    
